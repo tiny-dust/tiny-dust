@@ -43,7 +43,7 @@
 
 ### 开发工具
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=light)](https://skillicons.dev)
 
 ### 服务器相关
 
