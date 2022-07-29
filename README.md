@@ -30,7 +30,8 @@
 
 ### 业务相关
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,java,golang&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,java&theme=light)](https://skillicons.dev)
+#### 仅仅是熟悉，但也能开发
 [![My Skills](https://skillicons.dev/icons?i=java,golang,php,python&theme=dark)](https://skillicons.dev)
 ### 数据库
 
