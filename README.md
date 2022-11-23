@@ -59,11 +59,3 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tiny-dust&bg_color=ffffff&color=2f90da&line=3394f0&point=09c338&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-## 🏊 更多仓库
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiny-dust&repo=drag_size&show_owner=true&&theme=cobalt)](https://github.com/tiny-dust/drag_size)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiny-dust&repo=toolbox&show_owner=true&&theme=cobalt)](https://github.com/tiny-dust/toolbox)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiny-dust&repo=reject-996&show_owner=true&&theme=cobalt)](https://github.com/tiny-dust/reject-996)
