@@ -19,8 +19,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=tiny-dust.tiny-dust)
 ![](https://img.shields.io/github/followers/tiny-dust?label=Followers)
-[![Gmail Badge](https://img.shields.io/badge/-idiotic521541@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:idiotic521541@gmail.com)](Gmail:idiotic521541@gmail.com)
-[![Foxmail Badge](https://img.shields.io/badge/-idioticzhou@foxmail.com-%2346b882?style=flat&logo=TencentQQ&logoColor=white&link=mailto:idioticzhou@foxmail.com)](TencentQQ:idioticzhou@foxmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-idiotic521541@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:idiotic521541@gmail.com)](mailto:idiotic521541@gmail.com)
+[![Foxmail Badge](https://img.shields.io/badge/-idioticzhou@foxmail.com-%2346b882?style=flat&logo=TencentQQ&logoColor=white&link=mailto:idioticzhou@foxmail.com)](mailto:idioticzhou@foxmail.com)
 
 ## 🧰 语言工具
 
