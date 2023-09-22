@@ -26,11 +26,11 @@
 
 ### 视图相关
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,electron,js,ts,vite,webpack,css,sass,windicss,tailwind,jest,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,vite,webpack,css,jest,md&theme=light)](https://skillicons.dev)
 
 ### 业务相关
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs&theme=light)](https://skillicons.dev)
 #### 仅仅是熟悉，但也能开发
 [![My Skills](https://skillicons.dev/icons?i=java,golang,php,python&theme=dark)](https://skillicons.dev)
 ### 数据库
@@ -39,12 +39,12 @@
 
 ### 代码管理
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
 
 ### 开发工具
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
 
 ### 服务器相关
 
