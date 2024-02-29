@@ -5,7 +5,7 @@
 
 </div>
 
-<p>✍️&nbsp;&nbsp;大家好，我是顺顺同学! 目前已有4年的前端开发经验，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是顺顺同学! 目前已有5年的前端开发经验，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 
 <p>&emsp;&emsp;我很喜欢这句话：<b>我本凡尘微末，却也心向天空</b></p>
 
@@ -22,33 +22,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-idiotic521541@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:idiotic521541@gmail.com)](mailto:idiotic521541@gmail.com)
 [![Foxmail Badge](https://img.shields.io/badge/-idioticzhou@foxmail.com-%2346b882?style=flat&logo=TencentQQ&logoColor=white&link=mailto:idioticzhou@foxmail.com)](mailto:idioticzhou@foxmail.com)
 
-## 🧰 语言工具
 
-### 视图相关
-
-[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,vite,webpack,css,jest,md&theme=light)](https://skillicons.dev)
-
-### 业务相关
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs&theme=light)](https://skillicons.dev)
-#### 仅仅是熟悉，但也能开发
-[![My Skills](https://skillicons.dev/icons?i=java,golang,php,python&theme=dark)](https://skillicons.dev)
-### 数据库
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,&theme=light)](https://skillicons.dev)
-
-### 代码管理
-
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-
-
-### 开发工具
-
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
-
-### 服务器相关
-
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,jenkins&theme=light)](https://skillicons.dev)
 ## 💻 github stats
 
 <div align="center">
